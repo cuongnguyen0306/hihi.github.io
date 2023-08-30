@@ -172,7 +172,7 @@ body{
     position: relative;
     top: 15px;
     right: -200%;
-    width: 50%;
+    width: 70%;
     animation: boxInputHands 1s 9s forwards ease-in;
 }
 @keyframes boxInputHands{
@@ -640,11 +640,11 @@ body{
     position: absolute;
     width: 180px;
     bottom: -10px;
-    left: 50px;
+    left: 10px;
     z-index: 100;
 }
 .giftbox img{
-    width: 100%;
+    width: 80%;
 }
 .textLetter{
     position: relative;
