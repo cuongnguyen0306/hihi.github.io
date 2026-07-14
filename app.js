@@ -46,7 +46,7 @@ function progressInterva(){
             button.style.height = "40px";
         },2000)
         setTimeout(()=>{
-            textBtn.textContent = "Bấm zô đii!"
+            textBtn.textContent = "Bé bấm zô i!"
             textBtn.style.color = "#fff"
         },2500)
         setTimeout(()=>{
